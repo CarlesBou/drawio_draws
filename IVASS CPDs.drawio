@@ -151,7 +151,7 @@
         <mxCell id="tglreiclv5aIet40IwD6-8" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#33FF33);" value="&lt;b&gt;Gigabit&lt;/b&gt;" vertex="1">
           <mxGeometry height="25" width="55.24" x="358" y="544.2" as="geometry" />
         </mxCell>
-        <mxCell id="tglreiclv5aIet40IwD6-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#33FF33);" value="&lt;b&gt;MacroLAN&lt;/b&gt;" vertex="1">
+        <mxCell id="tglreiclv5aIet40IwD6-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#3333FF);" value="&lt;b&gt;MacroLAN&lt;/b&gt;" vertex="1">
           <mxGeometry height="25" width="65.24" x="200" y="192.5" as="geometry" />
         </mxCell>
       </root>
